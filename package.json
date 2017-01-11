@@ -1,0 +1,16 @@
+{
+  "name": "loopback-connector-dummy",
+  "description": "Dummy connector for loopback-datasource-juggler",
+  "main": "index.js",
+  "version": "0.0.1",
+  "author": "Edvisor.io",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "debug": "^2.1.1",
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {}
+}
